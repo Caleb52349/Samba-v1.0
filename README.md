@@ -1,23 +1,34 @@
 # Samba-v1.0
 A 2d game created with Unity
 
-# Student Management System
-The App was made using C# WinForm
-A more complex program which allows user to add students, classes  and teachers. An option to read records from Teachers, Student and classes. This Idea was implemented 
-with file and stream I/O.
+# Unity 2D Game
+This game was made during my 3rd Semester Introduction to Game Developement. I created this game using Unity 2d and created my sprites using Piskel https://www.piskelapp.com/. 
 
 ------------------------------------------------------------------------------------------------
 
+## Tips
+- To Dowload Game
+
+
 ## About The App and Future Updates
-- Connect with Database(MySql)
-- Insert Update Delete  and Modify
-- Add a login user for Student and Teachers
-- filter option to search for student or teachers
+- A 2D game 
+- Aim is to get as much coin and avoid obstacles and trap along the way
+- Get to the endzone to get to the next Level
+- MainMenu and Navigation for user to get use to game and set up.
+
+------------------------------------------------------------------------------------------------
+
+## Enemies in the Game
+- Spikes
+- Moving Spikes horizontally and vertically
+- Shooting Turrets
+- Turrets work by waking and up and shooting bullets if player is in range.
+- if player collides with spikes or bullets , player loses health. 
 
 ------------------------------------------------------------------------------------------------
 
 ## Motivation
-This is a big project that i have done with C# so far. i have worked with classes, inheritance multiple loops and try and catches to limit bugs in the program. if i was to  remake the project i will definetly make program using my sql database skills to make application more efficient and more organized code.
+So Far i gained alot of knowledge in OOP and in Introduction to Games i learned alot about Sprites. tilesets , scripting, camera movement, prototyping and some basic Animation.  I was keen to see what i can achieve, so i created a game called Samba using Unity and made my own sprite and tileset using pisket  https://www.piskelapp.com/. 
 
 ------------------------------------------------------------------------------------------------
 
