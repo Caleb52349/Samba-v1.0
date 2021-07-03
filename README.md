@@ -6,8 +6,11 @@ This game was made during my 3rd Semester Introduction to Game Developement. I c
 
 ------------------------------------------------------------------------------------------------
 
-## Tips
-- To Dowload Game
+## To Download Game
+-  Go to Samba Game.Zip
+-  Download and extract Samba Game.Zip
+-  Open Samba.exe
+-  Enjoy Game!!!
 
 
 ## About The App and Future Updates
@@ -33,6 +36,5 @@ So Far i gained alot of knowledge in OOP and in Introduction to Games i learned 
 ------------------------------------------------------------------------------------------------
 
 ## ScreenShots of Application
-<img src ="Images/1.png"> <img src ="Images/2.png">
-<img src ="Images/3.png"> <img src ="Images/4.png">
-<img src ="Images/5.png"> <img src ="Images/6.png">
+<img src ="Images/1.png">
+<img src ="Images/2.png"> 
